@@ -1,0 +1,5 @@
+com\proyecto\tiendamascotas\repository\MascotasRepositoryTest.class
+com\proyecto\tiendamascotas\service\MascotasServiceTest.class
+com\proyecto\tiendamascotas\model\MascotasTest.class
+com\proyecto\tiendamascotas\TiendamascotasApplicationTests.class
+com\proyecto\tiendamascotas\controller\MascotasControllerTest.class

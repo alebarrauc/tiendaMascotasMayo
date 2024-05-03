@@ -1,0 +1,7 @@
+com\proyecto\tiendamascotas\controller\MascotasNotFoundException.class
+com\proyecto\tiendamascotas\repository\MascotasRepository.class
+com\proyecto\tiendamascotas\controller\MascotasController.class
+com\proyecto\tiendamascotas\service\MascotasServiceImpl.class
+com\proyecto\tiendamascotas\model\Mascotas.class
+com\proyecto\tiendamascotas\service\MascotasService.class
+com\proyecto\tiendamascotas\TiendamascotasApplication.class
